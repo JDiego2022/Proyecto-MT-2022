@@ -1,10 +1,14 @@
 .title{
-    display: block;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 38px;
 }
 
+
+body table{
+    height: 55%;
+    width: 30%;
+}
 
 body table th{
     border: black 1px solid;
@@ -22,7 +26,7 @@ body table td{
     left: 0;
     right: 0;
     top: 16%;
-    margin: 0px 39% 0px;
+    margin: 0px 35% 10px;
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: black 1px solid;
@@ -45,8 +49,6 @@ body table td{
     top: 25%;
 }
 .logo{
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 1%;
+    position: static;
+    top: 1000px;
 }
