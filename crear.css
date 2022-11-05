@@ -1,0 +1,96 @@
+.logo{
+    height: 12%;
+    width: 12%;
+}
+.crear_cuenta h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px 23% 23px;
+}
+
+.Confirmar_{
+    display: block;
+    font-size: 19px;
+    height: 33px;
+    width: 224px;
+    margin: 0px 330px 0px;
+    padding: 0px 19px 0px;
+    color: black;
+}
+
+.Usuario_c{
+    display: block;
+    font-size: 19px;
+    height: 33px;
+    width: 224px;
+    margin: 0px 330px 0px;
+    padding: 0px 19px 0px;
+    color: black;
+}
+
+.Apellidos_{
+    display: block;
+    font-size: 19px;
+    height: 33px;
+    width: 224px;
+    margin: 0px 330px 0px;
+    padding: 0px 19px 0px;
+    color: black;
+}
+
+.Contra_{
+    display: block;
+    font-size: 19px;
+    height: 33px;
+    width: 224px;
+    margin: 0px 330px 0px;
+    padding: 0px 19px 0px;
+ 
+    color: black;
+}
+.Correo_{
+    display: block;
+    font-size: 19px;
+    height: 33px;
+    width: 224px;
+    margin: 0px 330px 0px;
+    padding: 0px 19px 0px;
+    color: black;
+}
+
+.Nombre_{
+    display: block;
+    font-size: 19px;
+    height: 33px;
+    width: 224px;
+    margin: 0px 330px 0px;
+    padding: 0px 19px 0px;
+    color: black;
+}
+
+.boton_crear{
+    font-size:18px;
+    margin: 0px 318px 45px;
+    height: 40px;
+    width: 22%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    background-color:#3CB460;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-color: #3CB460;
+    border-radius: 10px;
+}
+
+
+p{
+    position: absolute;
+    right: 0;
+    top: 40%;
+    font-size:18px;
+}
+
+.ambiente{
+    position: absolute;
+    right: 10%;
+    top: 50%;
+}
