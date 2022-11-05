@@ -8,7 +8,6 @@
 }
 
 .Confirmar_{
-    display: block;
     font-size: 19px;
     height: 33px;
     width: 224px;
@@ -18,7 +17,6 @@
 }
 
 .Usuario_c{
-    display: block;
     font-size: 19px;
     height: 33px;
     width: 224px;
@@ -28,7 +26,6 @@
 }
 
 .Apellidos_{
-    display: block;
     font-size: 19px;
     height: 33px;
     width: 224px;
@@ -38,7 +35,6 @@
 }
 
 .Contra_{
-    display: block;
     font-size: 19px;
     height: 33px;
     width: 224px;
@@ -48,7 +44,6 @@
     color: black;
 }
 .Correo_{
-    display: block;
     font-size: 19px;
     height: 33px;
     width: 224px;
@@ -58,7 +53,6 @@
 }
 
 .Nombre_{
-    display: block;
     font-size: 19px;
     height: 33px;
     width: 224px;

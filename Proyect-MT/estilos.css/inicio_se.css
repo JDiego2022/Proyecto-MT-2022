@@ -1,13 +1,10 @@
 .logo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0px 570px 0px;
     width: 15%;
     height: 15%;
 }
 
 h1{
-    display: block;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin:0px 575px 30px;
     font-size: 28px;
@@ -15,7 +12,7 @@ h1{
 }
 
 .Usuario_{
-    font-size: 20px;
+    font-size: 15px;
     height: 31px;
     width: 165px;
     display: block;
@@ -23,7 +20,7 @@ h1{
    
 }
 .Contraseña_{
-    font-size: 20px;
+    font-size: 15px;
     height: 31px;
     width: 165px;
     display: block;
@@ -32,7 +29,7 @@ h1{
 
 .iniciar{
     font-size: 18px;
-    margin: 0px 43% 0px;
+    margin: 0px 43% 10px;
     height: 43px;
     width: 14%;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -44,29 +41,20 @@ h1{
 
 }
 .Crear{
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 75%;
-    font-size:auto;
-    margin: 10px 45% 0px;
+    margin: 0px 42% 0px ;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-decoration: none;
-    color: black;
-    cursor:pointer;
-    
 }
 
 .olvidado{
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 72%;
-    font-size: 12px;
-    margin: 10px 44% 0px;
+    padding: 0px 43% 0px;
+    font-size: 14px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
     text-decoration: none;
+    color: black;
     cursor: pointer;
 }
 
+.crear_d{
+    text-decoration: none;
+    color: #3CB460;
+}
