@@ -1,0 +1,70 @@
+.logo{
+    height: 37%;
+    width: 18%;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+   
+}
+
+.Fondo{
+    height: 300%;
+    width: 100%;
+}
+
+.titulo_1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 30%;
+    text-align: center;
+
+}
+
+.titulo_2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 38%;
+    text-align: center;
+}
+
+.recuperar{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 50%;
+    text-align: center;
+}
+
+.correo_rec{
+    border-radius: 7px;
+    height: 30px;
+    width: 225px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 17px;
+    border-color: black;
+    
+}
+
+.enviar_re{
+    margin: 0px 550px 0px;
+    height: 60px;
+    width: 200;
+    display: block;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 60%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border-radius: 9px;
+    color: black;
+    background-color: #3CB460;
+    cursor: pointer;
+}
